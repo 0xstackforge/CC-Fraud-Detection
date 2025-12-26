@@ -13,7 +13,7 @@ The dataset used for this project can be found [here](https://www.kaggle.com/dat
 If you are running this project locally, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/x0samnan/CC-Fraud-Detection.git
+   git clone https://github.com/0xstackforge/CC-Fraud-Detection.git
    ```
 2. Installing the requirements
    ```bash
